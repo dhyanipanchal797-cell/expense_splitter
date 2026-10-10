@@ -21,13 +21,15 @@ expense-splitter/
 ## Getting Started 
 
 Prerequisites :
+
 1. Python 3.x installed on your system.
 
 Running the Script :
-2. Clone or download the script file (expense-splitter.py).
-3. Open your terminal or command prompt in the directory containing the file.
-4. Run the script using Python: python expense-splitter.py
-5. Choose between the Demo Mode (to see a pre-configured sample group) or Interactive Mode (to input your own custom names and expenses).
+
+1. Clone or download the script file (expense-splitter.py).
+2. Open your terminal or command prompt in the directory containing the file.
+3. Run the script using Python: python expense-splitter.py
+4. Choose between the Demo Mode (to see a pre-configured sample group) or Interactive Mode (to input your own custom names and expenses).
 
 Code Overview :
 
